@@ -1,0 +1,21 @@
+{
+  "name": "tiny_server",
+  "version": "0.0.1",
+  "description": "een server om base 64 images om te zetten naar pngs met tiny compressie",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "author": "Mels le Noble",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^2.1.2",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "socket.io": "^1.7.3"
+  }
+}
